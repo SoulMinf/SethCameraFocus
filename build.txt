@@ -1,0 +1,7 @@
+displayName = Seth Parallax Camera (Split Mod)
+author = SoulMinf
+version = 1.0
+
+modReferences = Split
+
+hideCode = false

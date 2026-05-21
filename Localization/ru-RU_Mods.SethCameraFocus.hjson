@@ -1,0 +1,22 @@
+Configs: {
+	Config: {
+		SpeedOut.Tooltip: ""
+		SpeedIn.Tooltip: ""
+		MaxParallax.Tooltip: ""
+		EnableGroupB.Tooltip: ""
+		EnableGroupA.Tooltip: ""
+		DisplayName: Настройки
+		DetachDistanceTiles.Tooltip: ""
+		RotatingBlades.Tooltip: ""
+		Ultimate.Tooltip: ""
+	}
+}
+
+ParalaxOut: Скорость движения камеры обратно к игроку
+ParalaxIn: Скорость движения камеры к боссу
+ParalaxStrength: Максимальная сила параллакса
+MaxRange: Максимальная дистанция действия параллакса
+Tuning: Некоторые настройки
+EnableRotatingBlades: Включить параллакс для Вращающихся мечей
+EnableUltimate: Включить параллакс для Ультимейта
+EnableGroups: Переключение параллакса

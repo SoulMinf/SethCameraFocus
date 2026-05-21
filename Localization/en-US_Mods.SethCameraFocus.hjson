@@ -1,0 +1,22 @@
+Configs: {
+	Config: {
+		SpeedOut.Tooltip: ""
+		SpeedIn.Tooltip: ""
+		MaxParallax.Tooltip: ""
+		EnableGroupB.Tooltip: ""
+		EnableGroupA.Tooltip: ""
+		DisplayName: Config
+		DetachDistanceTiles.Tooltip: ""
+		RotatingBlades.Tooltip: ""
+		Ultimate.Tooltip: ""
+	}
+}
+
+ParalaxOut: Parallax speed OUT
+ParalaxIn: Parallax speed IN
+ParalaxStrength: Max strength of parallax
+MaxRange: Max distance from the boss
+Tuning: Some settings
+EnableRotatingBlades: Enable parallax for Rotating Blades
+EnableUltimate: Enable parallax for Ultimate
+EnableGroups: Toggle Parallax
