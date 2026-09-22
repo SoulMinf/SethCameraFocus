@@ -1,4 +1,10 @@
 When Seth uses Heat Snap and Spinning Blades, the camera enters a parallax mode. In my humble opinion, i think this feature adds variety to boss fights. I hope you like this idea, especially the developer of the Split mod. The mod includes fine-tuning options for the parallax effect, so everyone can customize it to their liking
 If this feature appears in the original mod, this mod will be removed from the Workshop
 
-Mod Open Source
+[h2]Links[/h2]
+[img]https://i.imgur.com/jdunrUl.png[/img]
+
+[img]https://i.imgur.com/mxDesnm.png[/img] ‎ ‎[b][url=https://discord.gg/BafguHjhty]Discord Server[/url][/b]
+[img]https://i.imgur.com/m8YVpSp.png[/img] ‎ ‎[b][url=https://github.com/SoulMinf/SethCameraFocus]Source Code[/url][/b]
+[img]https://i.imgur.com/1OXhSeG.png[/img] ‎ ‎[b][url=https://steamcommunity.com/id/soul_minefine/myworkshopfiles/?appid=1281930]Other Projects[/url][/b]
+[img]https://i.imgur.com/jXZYlFj.png[/img] ‎ ‎[b][url=https://x.com/soul_minefine]Twitter[/url][/b]
