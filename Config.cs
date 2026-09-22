@@ -14,8 +14,8 @@ namespace SethCameraFocus
         public bool Ultimate = true;
 
         [LabelKey("$Mods.SethCameraFocus.EnableRotatingBlades")]
-        [DefaultValue(true)]
-        public bool RotatingBlades = true;
+        [DefaultValue(false)]
+        public bool RotatingBlades = false;
 
         [Header("$Mods.SethCameraFocus.Tuning")]
 
